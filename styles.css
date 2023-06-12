@@ -114,8 +114,8 @@ nav:active {
 
 .first-img {
     margin: 2.4rem auto;
-    max-width: 400px;
-    max-height: 400px;
+    max-width: 50%;
+    max-height: 50%;
 }
 
 .text h1 {
@@ -143,7 +143,7 @@ footer {
 }
 
 .community {
-    width: 92%;
+    width: 50%;
     max-width: 80rem;
     text-align: center;
     margin: 0 auto;
@@ -290,14 +290,13 @@ li {
     }
 
     .community {
-        padding: 4em 1em;
-        top:-12em;
+        top:-7em;
     }
 
     .community h1 {
         margin-bottom: 1em;
-        line-height: 6em;
-        font-size: 1em;
+        line-height: 2em;
+        font-size: 1.5em;
     }
 
     .community button {
