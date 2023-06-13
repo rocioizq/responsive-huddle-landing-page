@@ -143,7 +143,7 @@ footer {
 }
 
 .community {
-    width: 50%;
+    width: 80%;
     max-width: 80rem;
     text-align: center;
     margin: 0 auto;
@@ -179,13 +179,14 @@ footer {
 
 .footer-logo {
     width: 8em;
-    margin-top: 6em;
+    margin-top: 7em;
     margin-bottom: 2.5rem;
 }
 
 footer p {
     color: #ffff;
     font-size: .6em;
+    line-height: 2em;
 }
 
 .contact img {
