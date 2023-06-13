@@ -160,6 +160,7 @@ footer {
 .community h1 {
     font-size: .8em;
     margin-bottom: 1em;
+    line-height: 1.5em;
 }
 
 .community button {
