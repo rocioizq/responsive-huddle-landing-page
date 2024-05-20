@@ -4,3 +4,7 @@
 
 ## Welcome! 👋
 
+## Links
+Solution URL: https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-with-alternating-feature-blocks-69ao-X2Sov
+
+Live Site URL: https://responsive-huddle-landing-page-kappa.vercel.app/
