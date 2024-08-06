@@ -9,6 +9,6 @@ Solution URL: https://www.frontendmentor.io/solutions/responsive-huddle-landing-
 
 Live Site URL: https://responsive-huddle-landing-page-kappa.vercel.app/
 
-- [Frontend Mentor Page](https://www.frontendmentor.io/solutions/faq-accordion-vv7qVzwowd)
+- [Frontend Mentor Page](https://www.frontendmentor.io/profile/rocioizq)
 - [GitHub Pages](https://github.com/rocioizq)
 - [Vercel](https://vercel.com/rocioizqs-projects)
